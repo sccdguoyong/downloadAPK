@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">http下载应用</string>
+    <string name="path">请输入下载地址:</string>
+    <string name="count">请输入下载线程数量:</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停/恢复</string>
+    <string name="stop">停止</string>
+    <string name="down_success">下载成功</string>
+    <string name="down_fail">下载失败</string>
+    <string name="url">http://dl.app.sogou.com/appdown/1C11A302061F1F3E417EFC858547A4C1/-677126609/503053/5348155883</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
